@@ -1,0 +1,4 @@
+﻿  main.c
+c:\users\kmjeon\desktop\2017_c강의\linked_list_poly\main.c(23): warning C4101: 'val': unreferenced local variable
+  Test1.vcxproj -> C:\Users\kmjeon\Desktop\2017_C강의\linked_list_poly\Debug\Test1.exe
+  Test1.vcxproj -> C:\Users\kmjeon\Desktop\2017_C강의\linked_list_poly\Debug\Test1.pdb (Partial PDB)
