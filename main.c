@@ -72,7 +72,7 @@ int main(void)
 	//Initialize value
 	push(&pPoly_a, 1, 0);
 	push(&pPoly_a, 2, 8);
-	push(&pPoly_a, 3, 12);
+	push(&pPoly_a, 3, 14);
 
 	push(&pPoly_b, 10, 6);
 	push(&pPoly_b, -3, 10);
